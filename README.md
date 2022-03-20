@@ -25,5 +25,5 @@ How to install and run:
 - Last step, run the file.
 
 
-If you have a question, join my discord.
+If you have a question, join my discord. 
     
